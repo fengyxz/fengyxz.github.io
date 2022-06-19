@@ -5,7 +5,7 @@
 
 ### 八股文
 - [计算机网络](https://fengyxz.github.io/计算机网络)
-- [数据库](https://engyxz.github.io/数据库)
+- [数据库](https://fengyxz.github.io/数据库)
 
 
 ### 算法题
