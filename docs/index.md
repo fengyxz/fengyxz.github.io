@@ -4,10 +4,10 @@
 搜寻整理到的一些八股文知识（来源网络） & 以及算法题刷题记录
 
 ### 八股文
-- [计算机网络](https://github.com/fengyxz/fengyxz.github.io/计算机网络.md)
-- [数据库](https://github.com/fengyxz/fengyxz.github.io/计算机网络.md)
+- [计算机网络](https://github.com/fengyxz/fengyxz.github.io/计算机网络)
+- [数据库](https://github.com/fengyxz/fengyxz.github.io/数据库)
 
 
 ### 算法题
-- [Leetcode](https://github.com/fengyxz/fengyxz.github.io/Leetcode.md)
-- [ACwing](https://github.com/fengyxz/fengyxz.github.io/Acing.md)
+- [Leetcode](https://github.com/fengyxz/fengyxz.github.io/Leetcode)
+- [ACwing](https://github.com/fengyxz/fengyxz.github.io/Acing)
