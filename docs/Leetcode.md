@@ -4,4 +4,4 @@
 
 ### 6月
 
-- [6.19](http://https://fengyxz.github.io/2022_6_19)
+- [6.19](fengyxz.github.io/2022_6_19)
